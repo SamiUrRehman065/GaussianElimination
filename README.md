@@ -158,8 +158,8 @@ python test_cases.py
 
 ## 🧑‍💻 Author
 
-**Name:** Sami Ur Rehman
-**Location:** Karachi, Pakistan
+**Name:** Sami Ur Rehman  
+**Location:** Karachi, Pakistan  
 **GitHub:** [SamiUrRehman065](https://github.com/SamiUrRehman065)
 
 ---
